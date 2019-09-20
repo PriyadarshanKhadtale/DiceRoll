@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.fas{
+
+  font-size: 150px;
+  color:  slateblue;
+  margin: 70px;
+}
+
+.DiceRoll-btn{
+  display: block;
+  margin: auto;
+  padding: 20px;
+  width: 250px;
+  border-radius: 50px;
+  border: none;
+  background-color: black;
+  color: white;
+  font-size: 15px;
+}
+
+.DiceRoll-btn:hover{
+  background-color: orangered;
+  cursor: pointer;
+}
